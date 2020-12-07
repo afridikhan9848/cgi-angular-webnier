@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0639-1a28-4fa5-833e-84b1c03e37d8" name="Default Changelist" comment="" />
+    <list default="true" id="4ddf0639-1a28-4fa5-833e-84b1c03e37d8" name="Default Changelist" comment="too lazy to commit">
+      <change afterPath="$PROJECT_DIR$/01-typescript-basic/sample-types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-typescript-basic/hello-world.js" beforeDir="false" afterPath="$PROJECT_DIR$/01-typescript-basic/hello-world.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01-typescript-basic/hello-world.ts" beforeDir="false" afterPath="$PROJECT_DIR$/01-typescript-basic/hello-world.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1lKID8G07uZzTEmopuJTR2WM9Jc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,8 +27,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01-typescript-basic" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -29,8 +47,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607339233507</updated>
-      <workItem from="1607339234752" duration="410000" />
+      <workItem from="1607339234752" duration="1309000" />
+      <workItem from="1607340596305" duration="554000" />
     </task>
+    <task id="LOCAL-00001" summary="too lazy to commit">
+      <created>1607339721405</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607339721405</updated>
+    </task>
+    <task id="LOCAL-00002" summary="too lazy to commit">
+      <created>1607339732154</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607339732154</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -38,7 +72,23 @@
     <option name="exactExcludedFiles">
       <list>
         <option value="$PROJECT_DIR$/01-typescript-basic/hello-world.js" />
+        <option value="$PROJECT_DIR$/01-typescript-basic/sample-types.js" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="too lazy to commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="too lazy to commit" />
   </component>
 </project>
