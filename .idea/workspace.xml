@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ddf0639-1a28-4fa5-833e-84b1c03e37d8" name="Default Changelist" comment="added variables examples">
-      <change afterPath="$PROJECT_DIR$/03-loops-and-arrays/growable-arrays.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-loops-and-arrays/loops.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-loops-and-arrays/reviews.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-loops-and-arrays/sports.ts" afterDir="false" />
+    <list default="true" id="4ddf0639-1a28-4fa5-833e-84b1c03e37d8" name="Default Changelist" comment="added loop(traditional/enhanched)">
+      <change afterPath="$PROJECT_DIR$/04-typescript-classes/Employee.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-loops-and-arrays/growable-arrays.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-loops-and-arrays/growable-arrays.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03-loops-and-arrays/reviews.ts" beforeDir="false" afterPath="$PROJECT_DIR$/03-loops-and-arrays/reviews.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +26,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
@@ -49,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607339233507</updated>
       <workItem from="1607339234752" duration="1309000" />
-      <workItem from="1607340596305" duration="1564000" />
+      <workItem from="1607340596305" duration="3948000" />
     </task>
     <task id="LOCAL-00001" summary="too lazy to commit">
       <created>1607339721405</created>
@@ -79,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607341267573</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added loop(traditional/enhanched)">
+      <created>1607342205024</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342205024</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added loop(traditional/enhanched)">
+      <created>1607342209219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607342209219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +109,8 @@
         <option value="$PROJECT_DIR$/01-typescript-basic/sample-types.js" />
         <option value="$PROJECT_DIR$/03-loops-and-arrays/loops.js" />
         <option value="$PROJECT_DIR$/03-loops-and-arrays/sports.js" />
+        <option value="$PROJECT_DIR$/03-loops-and-arrays/growable-arrays.js" />
+        <option value="$PROJECT_DIR$/04-typescript-classes/Employee.js" />
       </list>
     </option>
   </component>
@@ -107,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="too lazy to commit" />
     <MESSAGE value="added variables examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="added variables examples" />
+    <MESSAGE value="added loop(traditional/enhanched)" />
+    <option name="LAST_COMMIT_MESSAGE" value="added loop(traditional/enhanched)" />
   </component>
 </project>

@@ -8,4 +8,4 @@ for (let i=0; i < reviews.length; i++) {
 }
 
 let average: number = total / reviews.length;
-console.log("Review average = " + average);
+console.log(`Review average = ${average}`);
